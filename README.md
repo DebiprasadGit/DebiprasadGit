@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Debiprasad
-- 👀 I’m interested in full stack development 
-- 🌱 I’m currently working on react and flutter development
+- 👀 I’m interested in mobile app development 
+- 🌱 I’m a flutter developer 
 - 💞️ I’m looking to collaborate on more projects related to my expertise
 - 📫 How to reach me LinkedIn @DebiprasadKhatua
 - 😄 Pronouns: ...He/Him
